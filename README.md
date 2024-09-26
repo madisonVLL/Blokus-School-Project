@@ -1,10 +1,5 @@
-# CMSC 14200 Course Project 
-
-Team members: 
-- GUI: Hanim Nuru (hanimn)
-- ## TUI: Madison Vanderbilt (mmv773)
-- Bot: Garrett White (garrettwhite)
-- QA: Sephora Poteau (poteaus)
+# CMSC 14200 Course Project - Blokus Game
+## TUI: Madison Vanderbilt (mmv773)
 
 ### How To Run TUI
 1. Clone GitHub Respiratory
