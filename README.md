@@ -2,7 +2,7 @@
 ## Contribution: TUI and Game Logic
 
 ### About Blokus
-This site was built using [Blokus](https://en.wikipedia.org/wiki/Blokus#:~:text=Blokus%20(%2F%CB%88bl%C9%92,and%20the%20pieces%20are%20polyominoes.).
+[Blokus](https://en.wikipedia.org/wiki/Blokus#:~:text=Blokus%20(%2F%CB%88bl%C9%92,and%20the%20pieces%20are%20polyominoes.)
 **[Blokus]**(https://en.wikipedia.org/wiki/Blokus#:~:text=Blokus%20(%2F%CB%88bl%C9%92,and%20the%20pieces%20are%20polyominoes.) (/ˈblɒkəs/ BLOK-əs) is an abstract strategy board game for two to four players, where players try to score points by occupying most of the board with pieces of their colour.
 
 ### How To Run TUI
