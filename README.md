@@ -4,7 +4,7 @@
 ### About Blokus
 **Blokus** *(/ˈblɒkəs/ BLOK-əs)* is an abstract strategy board game for two to four players, where players try to score points by occupying most of the board with pieces of their colour.
 
-How To Play: [Play Blokus]([https://service.mattel.com/instruction_sheets/BJV44-Eng.pdf])
+How To Play: [Play Blokus](https://service.mattel.com/instruction_sheets/BJV44-Eng.pdf)
 
 ### How To Run TUI
 1. Clone GitHub Respiratory
