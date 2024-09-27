@@ -11,7 +11,7 @@ How To Play: [Play Blokus](https://service.mattel.com/instruction_sheets/BJV44-E
 1. Clone GitHub Respiratory
 2. Ensure that terminal if full size of your window, otherwise game won't run
 3. Enter src folder
-4. in command line, run *python3 tui.py* \n
+4. in command line, run *python3 tui.py* 
 
 
 This game supports 2 - 4 players and a default board size of 14 and default start positions at (4, 4) and (9, 9). You have the opportunity to change this by the following command line inputs:
