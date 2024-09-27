@@ -1,6 +1,6 @@
 # CMSC 14200 Course Project - Blokus Game
 ## Contribution: TUI and Game Logic
-For this project, I was in charge of creating the Text User Interface (TUI) version of this Blokus game. Additionally, I built features of the game logic for all game versions including the GUI and Bot. These features include: adding piece to board, ensuring valid piece placement, determining intercardinal squares on the board, piece rotations using arrow keys, and creating game pieces. 
+For this project, I was in charge of creating the Text User Interface (TUI) version of this Blokus game. Additionally, I built features of the game logic for all game versions including the GUI and Bot. These features include: adding piece to board, ensuring valid piece placement, determining intercardinal squares on the board, piece rotations "r" key, and creating game pieces. 
 
 ### About Blokus
 [**Blokus**]([https://en.wikipedia.org/wiki/Blokus]))*(/ˈblɒkəs/ BLOK-əs)* is an abstract strategy board game for two to four players, where players try to score points by occupying most of the board with pieces of their colour.
